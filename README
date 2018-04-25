@@ -1,0 +1,8 @@
+Assignment 2: Support for Lightweight Processes (LWP's)
+CSC 453 (Operating Systems), Spring 2018
+Caitlin Settles
+
+"This assignment requires you to implement support for lightweight processes (threads) under linux
+using the GNU C Compiler(gcc). A lightweight process is an independent thread of control—
+sequence of executed instructions—executing in the same address space as other lightweight processes.
+Here you will implement a non-preemptive user-level thread package."
